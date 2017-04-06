@@ -1,0 +1,67 @@
+@media screen and (max-width: 660px) {
+ header {
+    font-size: 0.5em;
+  }
+ nav {
+    max-width: 100%;
+    font-size: 1.5em;
+  }
+ nav li {
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+  } 
+  p {
+    font-size: 1.4em;
+  }
+  .Side {
+    width: 19%;
+  }
+  .code {
+    height: 25%;
+  }
+  .robot {
+    height: 30%;
+  }
+  .computer {
+    height: 30%;
+  }
+  .CO {
+    height: 25%;
+  }
+}
+
+@media screen and (max-width: 480px) {
+   header {
+    font-size: 0.3em;
+  }
+  nav {
+    font-size: 1.15em;
+  }
+  nav li {
+    display: block;
+    text-align: left;
+    padding: 10px 0;
+  }
+  p {
+    font-size: 1em;
+  }
+  .computer {
+    height: 30%;
+  }
+  .Side {
+    width: 18%;
+  }
+  .code {
+    height: 14%;
+  }
+  .robot {
+    height: 16%;
+  }
+  .computer {
+    height: 16%;
+  }
+  .CO {
+    height: 14%;
+  }
+}
